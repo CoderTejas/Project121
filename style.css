@@ -1,0 +1,44 @@
+body
+{
+    background: rgb(209, 237, 255);
+    color: darkblue;
+}
+
+img
+{
+    width: 310px;
+    height: 300px;
+    border-radius: 25px;
+}
+
+.footer_div
+{
+    margin-bottom: 50px;
+}
+
+.footer_div div
+{
+    background: lightgray;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.end_div
+{
+    margin-top: 150px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 50px;
+}
+
+.end_div h4
+{
+    background: #f198a6;
+    border-radius: 10px;
+    padding: 5px; 
+}
+
+hr
+{
+    color: darkblue;
+}
